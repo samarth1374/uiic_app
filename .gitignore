@@ -1,3 +1,11 @@
 venv/
 __pycache__/
 *.pyc
+encrypted_uploads/
+fernet_key.key
+logs.csv
+
+# Temporary or system files
+*.enc
+*.tmp
+.DS_Store
